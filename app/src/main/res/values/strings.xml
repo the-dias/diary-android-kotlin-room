@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Diary</string>
+    <string name="button_select_date">Select Date</string>
+    <string name="floating_button_add_todo_description">Add Todo</string>
+    <string name="edit_text_description">Description</string>
+    <string name="edit_text_name_todo">Name</string>
+    <string name="table">Table</string>
+    <string name="text_time_start">Time from…</string>
+    <string name="text_time_finish">Time to…</string>
+    <string name="text_date">dd.mm.yyyy</string>
+    <string name="text_grid_layout">Grid Layout</string>
+    <string name="text_date_format">dd.mm.yyyy</string>
+    <string name="text_button_create">Create</string>
+</resources>
